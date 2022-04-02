@@ -1,0 +1,11 @@
+[["how big?: "], 
+["how smol?: "],
+["how cool?: "],
+["how handsome?: "],
+["how great?: "],
+["how not great?: "],
+["how pretty?: "],
+["how intelligent?: "],
+["how cute?: "],
+["how hydrated?: "],
+["how tired?: "]]
